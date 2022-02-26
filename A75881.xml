@@ -1,0 +1,272 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Address, to the Right Hononourable [sic] Sir John Fleet, Knt., lord mayor of the city of London</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75881</idno>
+            <idno type="STC">Wing A568A</idno>
+            <idno type="STC">ESTC R43592</idno>
+            <idno type="EEBO-CITATION">42474999</idno>
+            <idno type="OCLC">ocm 42474999</idno>
+            <idno type="VID">151100</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75881)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151100)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2243:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Address, to the Right Hononourable [sic] Sir John Fleet, Knt., lord mayor of the city of London</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Rand. Taylor, near Stationers-Hall,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: creased, some print bleed-through, with some loss of print.</note>
+                  <note>Reproduction of original in: Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fleet, John, --  Sir, d. 1712 --  Poetry.</term>
+               <term>Great Britain --  Politics and government --  1689-1702 --  Poetry.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="address">
+            <pb facs="tcp:151100:1" rendition="simple:additions"/>
+            <head>
+               <hi>An ADDRESS,</hi> To the Right Hononourable Sir <hi>JOHN FLEET,</hi> K<hi rend="sup">nt.</hi> Lord Mayor of the City of <hi>London,</hi>
+            </head>
+            <lg>
+               <l>OUR great <hi>Metropolis,</hi> like the <hi>Patriark</hi>'s Wife,</l>
+               <l>Hath to Two different <hi>Nations</hi> given Life;</l>
+               <l>One to the greateſt Bleſſings Born, and Nurſt,</l>
+               <l>The Other in his Mother's <hi>Womb</hi> Accurſt;</l>
+               <l>The Father, One of Num'rous <hi>Iſrael,</hi>
+               </l>
+               <l>T'Other for <hi>French</hi> Pottage, their Birth-Rights ſell;</l>
+               <l>For <hi>Veniſon</hi> Feaſts, their City They'll betray,</l>
+               <l>And Baſely give their Franchiſes away;</l>
+               <l>With Juries, packt for Violence, and Blood,</l>
+               <l>They Hunt, and Murther th'Innocent and Good.</l>
+               <l>'Twas Criminal, with them, not to be Ill,</l>
+               <l>And the Beſt Men were markt for Vengeance ſtill.</l>
+               <l>The Vip'rous Brood, their Mother's Entrails Tear,</l>
+               <l>And Gnaw the <hi>Heart</hi> of Her that did them bear;</l>
+               <l>Right of <hi>Election,</hi> baſely they decline,</l>
+               <l>And all her old Foundations Undermine;</l>
+               <l>With Debaucht Treats, th'Enſnare th'<hi>Apprentices,</hi>
+               </l>
+               <l>And the Lewd Boys, againſt the Laws Addreſs.</l>
+               <l>Theſe, and th'Inferiour <hi>Clergy</hi> were led on,</l>
+               <l>Their Cue was <hi>Jus Divine,</hi> and Forty One:</l>
+               <l>The <hi>Obſervator</hi> in the Van did vapour,</l>
+               <l>'Twas He that was <hi>Vir Gregis, Ipſe Caper,</hi>
+               </l>
+               <l>Till They had fill'd the <hi>Government</hi> with Tools,</l>
+               <l>Deſpis'd by <hi>Wiſe Men,</hi> and upheld by <hi>Fools.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>To Theſe, our Plagues, and Troubles owe their Birth!</l>
+               <l>Theſe Wrecthes, Shame, and Burthen of the Earth;</l>
+               <l>Who, tho' Juſt Heav'n at length have brought them under,</l>
+               <l>Like the fall'n Spirits, Fight againſt the Thunder;</l>
+               <l>Mean abject Souls, who obſtinate in Ill,</l>
+               <l>Altho' they want the Pow'r, Retain the Will:</l>
+               <l>They know not how to Bluſh, tho' they deſpair,</l>
+               <l>Having in Four <hi>Elections</hi> loſt the Chair;</l>
+               <l>All Good Men will ſuſpect what ſuch promote,</l>
+               <l>They're a Reproach to Him, for whom they Vote.</l>
+               <l>But leave 'em now, my Muſe, to heal the Matter,</l>
+               <l>By Drinking <hi>Healths</hi> to <hi>to'ther ſide o' th' Water.</hi>
+               </l>
+               <l>And turn thine Eyes unto the Thronged Hall,</l>
+               <l>Freed from th'<hi>Enchantments</hi> of a <hi>Packt Caball;</hi>
+               </l>
+               <l>The <hi>Citizens,</hi> from Armed Force, Reliev'd,</l>
+               <l>And their Condemned <hi>Charters</hi> all Repriev'd,</l>
+               <l>Sav'd, and Reſtor'd. What could our <hi>Hearts</hi> deſire?</l>
+               <l>We now Triumph over our Fatal <hi>Fire,</hi>
+               </l>
+               <l>And gratefully Rejoyce in <hi>KING</hi> and <hi>Mayor,</hi>
+               </l>
+               <l>Since Right <hi>Election</hi> fills the Throne and Chair.</l>
+               <l>What Land beſides can ſuch great Bleſſings prove?</l>
+               <l>W' are Rul'd by thoſe our ſelves are bound to Love:</l>
+               <l>Ages ſhall ſpeak the Praiſes of Our <hi>KING,</hi>
+               </l>
+               <l>Who, ventring All, did Our Deliv'rance bring:</l>
+               <l>He, who Our Antient <hi>Birth-Rights</hi> did <hi>Reſtore,</hi>
+               </l>
+               <l>And Fights our <hi>Battles</hi> on a Foreign Shoar,</l>
+               <pb facs="tcp:151100:2" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:151100:3"/>
+               <l>Thrice Happy <hi>England!</hi> Guarded from Alarms,</l>
+               <l>Reſcu'd from Foreign Arts, and Foreign Arms;</l>
+               <l>The great Fatigue, thy Glorous <hi>KING</hi> ſuſtains,</l>
+               <l>Defends Thee from <hi>French Councils,</hi> and <hi>French Chains.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>You, Mighty <hi>Magiſtrate,</hi> muſt next take place,</l>
+               <l>Who, with wiſe Conduct, your great Power <gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ate,</l>
+               <l>True to His Intereſt that fills the Throne,</l>
+               <l>Your <hi>Citizens</hi> may call their Lives their Own?</l>
+               <l>May <hi>London</hi>'s Style in Glorious Letters ſwell,</l>
+               <l>And on Her Gates, ſtill write <hi>S. P. Q. B.</hi>
+               </l>
+               <l>We from Your Equal Management, may hope</l>
+               <l>T' have Vice depreſt, and Virtue lifted up;</l>
+               <l>Nor fear We now the giving up of <hi>Charters,</hi>
+               </l>
+               <l>We dread not ſtaking up the Heads of <hi>Martyrs,</hi>
+               </l>
+               <l>Or Loading <hi>Bloody Gates</hi> with <hi>Loyal Quarters.</hi>
+               </l>
+               <l>No <hi>Packing Juries</hi> from our Worthy <hi>Sh'riffs,</hi>
+               </l>
+               <l>Nor Good Men <hi>Sworn</hi> to <hi>Death</hi> by Rogues and Thieves.</l>
+               <l>Canſt tell, O City! what thy Bleſſings are,</l>
+               <l>When a wiſe <hi>Senator</hi> ſupplies thy Chair?</l>
+               <l>Look but a few Years back, Admire, Adore</l>
+               <l>That Hand that did thy Guardian Laws Reſtore:</l>
+               <l>Now, Sir, Your <hi>Citizens,</hi> who have You choſe,</l>
+               <l>Under their <hi>KING,</hi> in you their Truſt Repoſe;</l>
+               <l>The Favour you receive from the Beſt Pair,</l>
+               <l>That e're Adorn'd the Table of <hi>Lord Mayor;</hi>
+               </l>
+               <l>Thoſe Votes, that Royal kindneſs, I plainly prove,</l>
+               <l>You'ave your <hi>Peoples</hi> Honour, and your <hi>Prince</hi>'s Love:</l>
+               <l>Crown'd with that Glorious Pair, your Pompous <hi>Hall,</hi>
+               </l>
+               <l>Defies <hi>Verſailles,</hi> and the Grand <hi>Seragle:</hi>
+               </l>
+               <l>Thoſe <hi>Dens of Tyrants;</hi> Curſt by all, are Good,</l>
+               <l>Founded on nought but <hi>Violence,</hi> and <hi>Blood.</hi>
+               </l>
+               <l>Rejoyce, O! <hi>London!</hi> Where at once are ſeen,</l>
+               <l>Of <hi>Kings</hi> the Valiant'ſt, and the Faireſt <hi>Queen;</hi>
+               </l>
+               <l>So All-Divine, ſo Condeſcending too,</l>
+               <l>They ſcatter Bleſſings whereſoe're they go.</l>
+               <l>Whole Legions Throng, to ſee the Royal Pair,</l>
+               <l>And with glad Acclamations fill the Air;</l>
+               <l>Profuſions of Pomps, and Triumphs Crown,</l>
+               <l>The great Appearance, and the Joyful Town,</l>
+               <l>Have <hi>Prince,</hi> and <hi>Patriot,</hi> they are proud to own.</l>
+            </lg>
+            <lg>
+               <l>Now, would I have the <hi>Jacobites</hi> true <hi>Blue,</hi>
+               </l>
+               <l>Thoſe Yelping Brats of Truſty <hi>Roger</hi>'s Crew;</l>
+               <l>Wh'Oppos'd your Intr'eſt in the Common <hi>Hall,</hi>
+               </l>
+               <l>And for Succeſſion of the Chair did Bawl;</l>
+               <l>Lay by their Heats, Succumb, and not Biggotted,</l>
+               <l>Mind <hi>Jeffreys, I—d.</hi> and ſome others noted,</l>
+               <l>Whoſe Memories, are with juſt <hi>Odium</hi> Blotted;</l>
+               <l>Whileſt Reſtor'd <hi>London</hi> ſhall ſuch Patriots chooſe,</l>
+               <l>As Scorn Her <hi>Charters,</hi> or to give, or Loſe;</l>
+               <l>May She ſtill Glory in her <hi>King</hi> and <hi>Mayor,</hi>
+               </l>
+               <l>A <hi>Bleſſing</hi> to the <hi>Throne,</hi> an <hi>Honour</hi> to the <hi>Chair.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, <hi>Printed for</hi> Rand Taylor, <hi>near</hi> Stationers-Hall, <hi>1693.</hi>
+            </p>
+            <pb facs="tcp:151100:4"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </back>
+   </text>
+</TEI>
